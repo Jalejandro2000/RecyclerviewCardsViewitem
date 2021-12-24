@@ -1,14 +1,19 @@
-# listviewCardsViewitem
+# RrecyclerviewCardsViewitem
 
 * Visualizacion de la lista de evaluadores
 
-![captura1 (2)](https://user-images.githubusercontent.com/67810669/146628493-d025295b-e054-4b76-ab5c-8666f7c2058b.jpeg)
+
+![captura2 evaluadores](https://user-images.githubusercontent.com/67810669/147307615-60b1dd2e-adf0-43bc-b7fe-a03d8e2624fa.jpeg)
+
+![captura1evaluadores](https://user-images.githubusercontent.com/67810669/147307617-eb9dd2a5-acce-461f-8214-c7a4f02749c1.jpeg)
+
+
 
 * Visualizacion de evaluados seleccionados
 
-![captura2 (2)](https://user-images.githubusercontent.com/67810669/146628520-0b235423-3a7c-4362-84ce-b112b02ad183.jpeg)
 
 
-![WhatsApp Image 2021-12-17 at 11 20 13 PM (1)](https://user-images.githubusercontent.com/67810669/146628772-de077ca3-0de1-40f9-9cb2-dfbad9769571.jpeg)
-
-![WhatsApp Image 2021-12-17 at 11 20 13 PM](https://user-images.githubusercontent.com/67810669/146628773-8733d9df-caf6-4e38-a821-b603cc2acaef.jpeg)
+![captura6 evaluados](https://user-images.githubusercontent.com/67810669/147307667-a6e3762a-7d63-4aef-84e5-5888d37c3c12.jpeg)
+![captura5 evaluados](https://user-images.githubusercontent.com/67810669/147307669-fa674459-edd7-45be-a6de-134778264ba5.jpeg)
+![captura4 evaluados](https://user-images.githubusercontent.com/67810669/147307670-81561e28-1edf-49e2-b1cf-c5b52b393b25.jpeg)
+![captura3 evaluados](https://user-images.githubusercontent.com/67810669/147307671-0941b952-779e-4c8c-aa5f-33015d854796.jpeg)
